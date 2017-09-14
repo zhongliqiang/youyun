@@ -192,7 +192,7 @@ a{
 	vertical-align: middle;
 }
 .game-list .game-list-center{
-	float: left;
+
 }
 .game-list .game-list-center img{
 	/*width: 80px;
@@ -202,7 +202,6 @@ a{
     	width: 22%;
     	margin-bottom: 10px;
     	margin-right: 2%;
-    	float: left;
 }
 .xiaoshou{
 	display: block;
@@ -317,6 +316,7 @@ a{
 	margin-bottom: 40px;
 }
 .footer .row{
+	margin-top: 60px;
 	margin-bottom: 40px;
 }
 .footer .row img{
